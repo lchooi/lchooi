@@ -11,3 +11,5 @@ lchooi/lchooi is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 This is my personal git learning library for testing, development and understanding purposes.
+
+This time I wanted to update the project before checking out.
