@@ -15,3 +15,5 @@ This is my personal git learning library for testing, development and understand
 This time I wanted to update the project before checking out.
 
 This time I did not check out and try to commit.
+
+Again, did not check out.
